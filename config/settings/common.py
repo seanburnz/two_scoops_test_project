@@ -45,6 +45,7 @@ THIRD_PARTY_APPS = (
 LOCAL_APPS = (
     'two_scoops_test_project.users',  # custom users app
     # Your stuff: custom apps go here
+    'pilotbid'
 )
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps

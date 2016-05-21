@@ -3,6 +3,7 @@
 # Bleeding edge Django
 django==1.9.6
 django-debug-toolbar==1.4 #testing by SB
+django-extensions==1.6.7 #as above
 
 # Configuration
 django-environ==0.4.0

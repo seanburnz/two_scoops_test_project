@@ -1,0 +1,5 @@
+[run]
+include = two_scoops_test_project/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
